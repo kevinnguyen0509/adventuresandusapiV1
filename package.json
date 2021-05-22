@@ -1,0 +1,19 @@
+{
+  "name": "adventuresandusapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinnguyen0509/adventuresandusAPI.git"
+  },
+  "author": "Kevin Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinnguyen0509/adventuresandusAPI/issues"
+  },
+  "homepage": "https://github.com/kevinnguyen0509/adventuresandusAPI#readme"
+}
