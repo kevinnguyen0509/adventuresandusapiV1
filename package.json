@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevinnguyen0509/adventuresandusAPI.git"
+    "url": "git+https://github.com/kevinnguyen0509/adventuresandusapiV1"
   },
   "author": "Kevin Nguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kevinnguyen0509/adventuresandusAPI/issues"
+    "url": "https://github.com/kevinnguyen0509/adventuresandusapiV1/issues"
   },
   "dependencies": {
     "compression": "^1.7.4",
@@ -25,5 +25,5 @@
     "morgan": "^1.10.0",
     "slugify": "^1.5.3"
   },
-  "homepage": "https://github.com/kevinnguyen0509/adventuresandusAPI#readme"
+  "homepage": "https://github.com/kevinnguyen0509/adventuresandusapiV1#readme"
 }
