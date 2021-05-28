@@ -3,6 +3,7 @@ const app = express();
 const morgan = require("morgan");
 const compression = require("compression");
 const adventureRoute = require("./routes/adventureRoute");
+const compression = require("compression");
 const cors = require("cors");
 
 app.use(cors());
@@ -13,6 +14,7 @@ if (process.env.NODE_ENV === "development") {
 }
 
 app.use(express.json());
+app.use(compression());
 app.use((req, res, next) => {
   req.requestTime = new Date().toISOString();
   next();
